@@ -1,7 +1,7 @@
-### Hello folks , I'm Puneeth K Shetty 👋
+# Hello folks , I'm Puneeth K Shetty 👋
 
-# ENTHUSIASTIC WEB DEVELOPER AND DATA SCIENTIST
-# I HATE COFFEE
+### * WEB DEVELOPER | DATA SCIENTIST ENTHUSIAST| TECH GEEK
+### * I HATE COFFEE
 
 ## 📈 My GitHub Stats:	
 
