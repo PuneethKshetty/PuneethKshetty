@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></h2>
 <div align="center">		
-<img src="https://i.pinimg.com/originals/8b/6e/c6/8b6ec60427f9b17c1d9aaf4c415babe3.png" height="300px" width="300px"/>	
+<img src="https://i.pinimg.com/originals/8b/6e/c6/8b6ec60427f9b17c1d9aaf4c415babe3.png" height="500px" width="500px"/>	
 	</div>
 <p align="center"><strong> Web Developer 🖥 | Data science enthusiast </strong></p> <br>
 <h2 align="center"> ABOUT ME</h2>
