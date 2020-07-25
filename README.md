@@ -9,10 +9,10 @@
 
 <h2 align="center"><strong>My Passions</strong></h2>
 <p align="center">	
-<li align="center">Web Develpoment</li>	 
-	<li align="center"><span>Programming</span> </li>
-<li align="center">Gaming </li> 
-<li align="center">Video Editing</li>
+<li align="center">Web Develpoment</li>	 <br>
+	<li align="center">Programming </li><br>
+<li align="center">Gaming </li> <br>
+<li align="center">Video Editing</li><br>
 </p>	<br>
 <h2 align="center"><strong>My Skills</strong></h2>	
 <p align="center">	
