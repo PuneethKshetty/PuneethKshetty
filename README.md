@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<!--<link href="/Desktop/Practice/style.css">-->
-<link href="https://fonts.googleapis.com/css?family=Cedarville+Cursive" rel="stylesheet" type="text/css">
-</head>
+
 <h2 align="center">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></h2>
 <div align="center">		
 <img src="https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortWaved&accessoriesType=Sunglasses&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Red&eyeType=Wink&eyebrowType=UpDownNatural&mouthType=Smile&skinColor=Light" height="200px" width="200px"/>	
@@ -14,10 +9,10 @@
 
 <h2 align="center"><strong>My Passions</strong></h2>
 <p align="center">	
-<li align="center">Web Develpoment</li>	 <br>
-	<li align="center" style="padding-right:30px;">Programming </li><br>
-<li align="center" style="padding-right:70px;">Gaming </li> <br>
-<li align="center" style="padding-right:30px;">Video Editing</li><br>
+<li align="center">Web Develpoment</li>	 
+	<li align="center">Programming </li>
+<li align="center">Gaming </li> 
+<li align="center">Video Editing</li>
 </p>	<br>
 <h2 align="center"><strong>My Skills</strong></h2>	
 <p align="center">	
