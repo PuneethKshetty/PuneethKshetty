@@ -1,7 +1,7 @@
 
 <p align="center">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></p>
 <div align="center">		
-<img src="https://i.pinimg.com/originals/8b/6e/c6/8b6ec60427f9b17c1d9aaf4c415babe3.png" height="200px" width="200px"/>	
+<img src="https://i.pinimg.com/originals/8b/6e/c6/8b6ec60427f9b17c1d9aaf4c415babe3.png" height="300px" width="300px"/>	
 	</div>
 <h2 align="center"><strong> Web Developer 🖥 | Data science enthusiast </strong></h2> <br>
 <h2 align="center"> ABOUT ME</h2>
@@ -15,7 +15,7 @@ Programming(RARE)<br>
 Gaming <br>
 Video Editing	<br>
 Watching lots of memes<br>
-</p>	
+</p>	<br>
 <h2 align="center"><strong>My Skills</strong></h2>	
 <p align="center">	
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" /> <br>	
