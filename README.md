@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></h2>
 <div align="center">		
-<img src="https://i.pinimg.com/originals/8b/6e/c6/8b6ec60427f9b17c1d9aaf4c415babe3.png" height="200px" width="200px"/>	
+<img src="https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortWaved&accessoriesType=Sunglasses&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Red&eyeType=Wink&eyebrowType=UpDownNatural&mouthType=Smile&skinColor=Light" height="200px" width="200px"/>	
 	</div>
 <p align="center"><strong> Web Developer 🖥 | Data science enthusiast </strong></p> <br>
 <h2 align="center"> ABOUT ME</h2>
