@@ -9,11 +9,11 @@
 
 <h2 align="center"><strong>My Passions</strong></h2>
 <p align="center">	
-<li align="center">Web Develpoment</li>	 <br>
+<li align="center">Web Develpoment</li>	 
 <li align="center">Programming(RARE)</li>
-<li align="center">Gaming</li> <br>
-<li align="center">Video Editing</li>	<br>
-<li align="center">Watching lots of memes</li><br>
+<li align="center">Gaming (for just 2 hours)</li> 
+<li align="center">Video Editing</li>
+<li align="center">Watching lots of memes</li>
 </p>	<br>
 <h2 align="center"><strong>My Skills</strong></h2>	
 <p align="center">	
