@@ -1,5 +1,5 @@
 <div align="center">	
-<img src="https://github.com/PuneethKshetty/PuneethKshetty.github.io/blob/master/images/Eye.png" height="175px" width="175px"/>	
+<img src="file:///C:/Users/PUNEETH%20K%20SHETTY/Pictures/73128878_1835376746598930_3984448507487482861_n.jpg" height="175px" width="175px"/>	
 	</div>
 
 
