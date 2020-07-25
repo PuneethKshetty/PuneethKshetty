@@ -9,7 +9,7 @@
 
 <h2 align="center"><strong>My Passions</strong></h2>
 <p align="center">	
-<ul>Web Develpoment</ul>	 <br>
+<ul align="center">Web Develpoment</ul>	 <br>
 Programming(RARE)<br>
 Gaming <br>
 Video Editing	<br>
