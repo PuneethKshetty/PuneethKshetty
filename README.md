@@ -8,9 +8,8 @@
 <p align="center"> I am dismissive of the virtuous , unaware of the beautiful and uncomprehending in the face of the Happy .</p> <br>
 
 <h2 align="center"><strong>My Passions</strong></h2>
-
 <p align="center">	
-Web Develpoment	 <br>
+<ul>Web Develpoment</ul>	 <br>
 Programming(RARE)<br>
 Gaming <br>
 Video Editing	<br>
@@ -20,7 +19,7 @@ Watching lots of memes<br>
 <p align="center">	
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" /> <br>	
 <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/-C%20Programming-orange" />  <img src="https://img.shields.io/badge/-C%2B%2B-blue" />  
-</p>	</p>
+</p>	<br>
  	 
 <h2 align="center"><strong>Wanna Hire Me!</strong></h2>
 <p align="center">	
