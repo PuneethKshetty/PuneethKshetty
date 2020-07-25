@@ -1,12 +1,11 @@
-<div align="center">	
-<img src="https://image.freepik.com/free-vector/cyborg-smoking-illustration-premium_93536-33.jpg" height="175px" width="175px"/>	
+
+<p align="center">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></p>
+<div align="center">		
+<img src="https://i.pinimg.com/originals/8b/6e/c6/8b6ec60427f9b17c1d9aaf4c415babe3.png" height="175px" width="175px"/>	
 	</div>
 
 
-<h2 align="center"><strong>🖥 Web Developer | Data science enthusiast </strong></h2>	
-
-<p align="center">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></p>
-
+<h2 align="center"><strong>🖥 Web Developer | Data science enthusiast </strong></h2> <br>
 
 <h2 align="center">Stuffs I do When i get<strong> BORED .</strong></h2>
 
@@ -33,4 +32,4 @@
 
 ##                                                         📈 My GitHub Stats:	
 
-![](https://github-readme-stats.vercel.app/api?username=PuneethKshetty&show_icons=true&title_color=f07&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)	
+<p align="center">![](https://github-readme-stats.vercel.app/api?username=PuneethKshetty&show_icons=true&title_color=f07&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)</p>
