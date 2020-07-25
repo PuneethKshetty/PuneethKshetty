@@ -10,7 +10,7 @@
 <h2 align="center"><strong>My Passions</strong></h2>
 <p align="center">	
 <li align="center">Web Develpoment</li>	 <br>
-<li align="center">Programming(RARE)</li><br>
+<li align="center">Programming(RARE)</li>
 <li align="center">Gaming</li> <br>
 <li align="center">Video Editing</li>	<br>
 <li align="center">Watching lots of memes</li><br>
