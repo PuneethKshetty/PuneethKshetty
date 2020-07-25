@@ -1,5 +1,10 @@
 <LINK rel="stylesheet" type="text/css"
      href="mystyles.css" title="Default Styles" media="screen">
+<style>
+	.li{
+	padding-right:30px;
+	}
+	</style>
 <h2 align="center">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></h2>
 <div align="center">		
 <img src="https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortWaved&accessoriesType=Sunglasses&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Red&eyeType=Wink&eyebrowType=UpDownNatural&mouthType=Smile&skinColor=Light" height="200px" width="200px"/>	
