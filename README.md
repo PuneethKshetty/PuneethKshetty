@@ -11,7 +11,7 @@
 <p align="center">	
 <li align="center">Web Develpoment</li>	 
 <li align="center" style="padding-right:30px;">Programming </li>
-<li align="center" style="padding-right:40px;>Gaming </li> 
+<li align="center" style="padding-right:40px;">Gaming </li> 
 <li align="center" style="padding-right:30px;">Video Editing</li>
 </p>	<br>
 <h2 align="center"><strong>My Skills</strong></h2>	
