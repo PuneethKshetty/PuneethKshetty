@@ -1,5 +1,5 @@
 <div align="center">	
-<img src="file:///C:/Users/PUNEETH%20K%20SHETTY/Pictures/73128878_1835376746598930_3984448507487482861_n.jpg" height="175px" width="175px"/>	
+<img src="https://image.freepik.com/free-vector/cyborg-smoking-illustration-premium_93536-33.jpg" height="175px" width="175px"/>	
 	</div>
 
 
@@ -8,7 +8,7 @@
 <p align="center">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></p>
 
 
-<h2 align="center"><strong>MY MAIN INTEREST </strong></h2>
+<h2 align="center">Stuffs I do When i get<strong> BORED .</strong></h2>
 
 <p align="center">	
  Web Develpoment	 
