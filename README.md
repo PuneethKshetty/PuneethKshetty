@@ -1,22 +1,22 @@
 
 <p align="center">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></p>
 <div align="center">		
-<img src="https://i.pinimg.com/originals/8b/6e/c6/8b6ec60427f9b17c1d9aaf4c415babe3.png" height="175px" width="175px"/>	
+<img src="https://i.pinimg.com/originals/8b/6e/c6/8b6ec60427f9b17c1d9aaf4c415babe3.png" height="200px" width="200px"/>	
 	</div>
+<h2 align="center"><strong> Web Developer 🖥 | Data science enthusiast </strong></h2> <br>
+<h2 align="center"> ABOUT ME</h2>
+<p align="center"> I am dismissive of the virtuous , unaware of the beautiful and uncomprehending in the face of the Happy .</p> <br>
 
-
-<h2 align="center"><strong>🖥 Web Developer | Data science enthusiast </strong></h2> <br>
-
-<h2 align="center">Stuffs I do When i get<strong> BORED .</strong></h2>
+<h2 align="center"><strong>My Passions</strong></h2>
 
 <p align="center">	
- Web Develpoment	 
-- Programming(RARE)
-- Gaming 
-- Video Editing	
-- Watching lots of memes
+Web Develpoment	 <br>
+Programming(RARE)<br>
+Gaming <br>
+Video Editing	<br>
+Watching lots of memes<br>
 </p>	
-<h2 align="center"><strong>Skills</strong></h2>	
+<h2 align="center"><strong>My Skills</strong></h2>	
 <p align="center">	
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" /> <br>	
 <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/-C%20Programming-orange" />  <img src="https://img.shields.io/badge/-C%2B%2B-blue" />  
@@ -32,4 +32,4 @@
 
 ##                                                         📈 My GitHub Stats:	
 
-<p align="center">![](https://github-readme-stats.vercel.app/api?username=PuneethKshetty&show_icons=true&title_color=f07&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)</p>
+![](https://github-readme-stats.vercel.app/api?username=PuneethKshetty&show_icons=true&title_color=f07&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
