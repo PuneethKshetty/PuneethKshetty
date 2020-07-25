@@ -1,8 +1,14 @@
-<style type="text/css" rel="stylesheet">
-#ob {
-    border-top: 5px solid black;
-}
-
+<!DOCTYPE html>
+<html>
+<head>
+<!--<link href="/Desktop/Practice/style.css">-->
+<link href="https://fonts.googleapis.com/css?family=Cedarville+Cursive" rel="stylesheet" type="text/css">
+</head>
+<style type="text/css" media="screen">
+.CedarvilleCursive {font-family: CedarvilleCursive;}
+.medium-text {font-size: 50px;}
+.red-text {color:red;}
+p {font-family:CedarvilleCursive, Cursive; font-size: 50px; background-color: yellow;}
 </style>
 <h2 align="center">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></h2>
 <div align="center">		
