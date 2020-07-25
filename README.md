@@ -5,15 +5,14 @@
 	</div>
 <p align="center"><strong> Web Developer 🖥 | Data science enthusiast </strong></p> <br>
 <h2 align="center"> ABOUT ME</h2>
-<p align="center"> I am dismissive of the virtuous , unaware of the beautiful and uncomprehending in the face of the Happy .</p> <br>
+<p align="center"> I am dismissive of the virtuous, unaware of the beautiful and uncomprehending in the face of the Happy .</p> <br>
 
 <h2 align="center"><strong>My Passions</strong></h2>
 <p align="center">	
-<li align="center">Web Develpoment</li>	 
-<li align="center">Programming</li>
-<li align="center">Gaming </li> 
-<li align="center">Video Editing</li>
-<li align="center">Watching lots of memes</li>
+<li align="center">  Web Develpoment</li>	 
+<li align="center">  Programming</li>
+<li align="center">  Gaming </li> 
+<li align="center">  Video Editing</li>
 </p>	<br>
 <h2 align="center"><strong>My Skills</strong></h2>	
 <p align="center">	
