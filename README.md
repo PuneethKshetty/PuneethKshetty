@@ -22,7 +22,7 @@
  	 
 <h2 align="center"><strong>Wanna Hire Me!</strong></h2>
 <p align="center">	
-  <a href="https://github.com/PuneethKshetty"><img src="https://img.shields.io/badge/-My%20Portfolio-Black" alt="Puneeth K Shetty" /></a>	 
+  <a href="https://tinyurl.com/y5qe2u4n"><img src="https://img.shields.io/badge/-My%20Portfolio-Black" alt="Puneeth K Shetty" /></a>	 
   <a href="https://www.linkedin.com/in/puneeth-k-shetty-3b0b06173/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>	  	  
 </p>
 
