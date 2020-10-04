@@ -1,14 +1,14 @@
 
-<h2 align="center">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></h2>
+<h2 align="left">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></h2>
  
- <img align="center" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
+ <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
 
-<p align="center"><strong> Web Developer 🖥 | Data science enthusiast </strong></p> <br>
-<h2 align="center"> ABOUT ME</h2>
-<p align="center"> I am dismissive of the virtuous, unaware of the beautiful and uncomprehending in the face of the Happy .</p> <br>
+<p align="left"><strong> Web Developer 🖥 | Data science enthusiast </strong></p> <br>
+<h2 align="left"> ABOUT ME</h2>
+<p align="left"> I am dismissive of the virtuous, unaware of the beautiful and uncomprehending in the face of the Happy .</p> <br>
 	 
-<p align="center"> 
-  Visitor count<br>
+<p align="left"> Visitor count
+	<br>
   <img src="https://profile-counter.glitch.me/PuneethKshetty/count.svg" />
 </p>
 
@@ -30,5 +30,5 @@
 
 ---
 
-<img align="left" alt="Puneeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PuneethKshetty&show_icons=true&hide_border=true" />
+<img align="center" alt="Puneeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PuneethKshetty&show_icons=true&hide_border=true" />
 
