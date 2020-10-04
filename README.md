@@ -1,8 +1,9 @@
 
 <h2 align="center">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></h2>
 <div align="center">		
-	<img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
+<img align="center" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" style="width:20px;padding-left:20px;"/>
 </div>
+
 <p align="center"><strong> Web Developer 🖥 | Data science enthusiast </strong></p> <br>
 <h2 align="center"> ABOUT ME</h2>
 <p align="center"> I am dismissive of the virtuous, unaware of the beautiful and uncomprehending in the face of the Happy .</p> <br>
