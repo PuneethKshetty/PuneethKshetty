@@ -1,5 +1,5 @@
 
-<h2 align="left">Hello Folks, I'm <strong>Puneeth K Shetty 👋</strong></h2>
+<h2 align="left">Hello Folks, I'm <strong>Puneeth K Shetty 🤘</strong></h2>
  
  <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
 
