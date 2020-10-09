@@ -1,5 +1,5 @@
 
-<h2 align="left">Hello Folks, I'm <strong>Puneeth K Shetty 🎓</strong></h2>
+<h2 align="left">Hello Folks, I'm <strong>Puneeth K Shetty ( ⌐■_■) </strong></h2>
  
  <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
 
@@ -32,3 +32,4 @@
 
 <img align="center" alt="Puneeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PuneethKshetty&show_icons=true&hide_border=true" />
 
+ 
