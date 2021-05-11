@@ -1,11 +1,11 @@
 
-<h2 align="left">Hello Folks, I'm <strong>Puneeth K Shetty ( ⌐■_■) </strong></h2>
+<h2 align="left">Hello Folks, I'm <strong>Maansi Muthamma ( ⌐■_■) </strong></h2>
  
  <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
 
-<p align="left"><strong> Web Developer 🖥 | Data science enthusiast </strong></p> <br>
+<p align="left"><strong> Learning Web Development🖥 | Student </strong></p> <br>
 <h2 align="left"> ABOUT ME</h2>
-<p align="left"><strong>I am dismissive of the virtuous, unaware of the beautiful and uncomprehending in the face of the Happy .</strong></p> <br>
+<p align="left"><strong>I'm just a student pursuing my First year at Sahyadri Cillege of Engineering and Management. Even I'm and explorer who has to eager to learn various tech stuffs</strong></p> <br>
 	 
 <p align="left"> Visitor count
 	<br>
@@ -30,6 +30,6 @@
 
 ---
 
-<img align="center" alt="Puneeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PuneethKshetty&show_icons=true&hide_border=true" />
+<img align="center" alt="Maansi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaansiMuthamma&show_icons=true&hide_border=true" />
 
  
