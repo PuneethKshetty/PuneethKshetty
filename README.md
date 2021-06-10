@@ -1,7 +1,7 @@
 
 <h2 align="left">Hello Folks, I'm <strong>Puneeth K Shetty ( ⌐■_■) </strong></h2>
  
- <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
+ <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="450"/>
 
 <p align="left"><strong> Web Developer 🖥 | Data science enthusiast </strong></p> <br>
 <h2 align="left"> ABOUT ME</h2>
