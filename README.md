@@ -20,7 +20,7 @@
   <a href="http://twitter.com/slowsarcasm">
     <img src="https://img.shields.io/twitter/follow/slowsarcasm?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>	
-  <a href="https://tinyurl.com/y5qe2u4n"><img src="https://img.shields.io/badge/-My%20Portfolio-Black" alt="Puneeth K Shetty" /></a>	 
+  <a href="https://puneethiscool.netlify.app"><img src="https://img.shields.io/badge/-My%20Portfolio-Black" alt="Puneeth K Shetty" /></a>	 
   <a href="https://www.linkedin.com/in/puneeth-k-shetty-3b0b06173/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>	  	  
 </p>
 
