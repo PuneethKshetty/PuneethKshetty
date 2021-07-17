@@ -32,7 +32,7 @@
 <br />
 
 ---
-
-<img align="center" alt="Puneeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PuneethKshetty&show_icons=true&hide_border=true" />
-
+<p align="center">
+<img alt="Puneeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PuneethKshetty&show_icons=true&hide_border=true" />
+</p>
  
