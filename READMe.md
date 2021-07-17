@@ -20,8 +20,11 @@
   <a href="http://twitter.com/slowsarcasm">
     <img src="https://img.shields.io/twitter/follow/slowsarcasm?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>	
-  <a href="https://puneethiscool.netlify.app"><img src="https://img.shields.io/badge/-My%20Portfolio-Black" alt="Puneeth K Shetty" /></a>	 
-  <a href="https://www.linkedin.com/in/puneeth-k-shetty-3b0b06173/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>	  	  
+  <a href="https://puneethiscool.netlify.app"><img src="https://img.shields.io/badge/-My%20Portfolio-Black?style=for-the-badge" alt="Puneeth K Shetty" /></a>	 
+  <a href="https://www.linkedin.com/in/puneeth-k-shetty-3b0b06173/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/channel/UCNEGDUYiB7_iFhRu45sFucA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>	
+	
+	
 </p>
 
 <!-- ### Connect with me: -->
