@@ -17,7 +17,7 @@
   <a href="https://github.com/PuneethKshetty?tab=followers">
     <img src="https://img.shields.io/github/followers/PuneethKshetty?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/slowsarcasm">
+  <a href="https://twitter.com/slowsarcasm">
     <img src="https://img.shields.io/twitter/follow/slowsarcasm?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>	
   <a href="https://puneethiscool.netlify.app"><img src="https://img.shields.io/badge/-My%20Portfolio-Black?style=for-the-badge" alt="Puneeth K Shetty" /></a>	 
