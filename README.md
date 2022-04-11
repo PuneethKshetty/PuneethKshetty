@@ -3,7 +3,7 @@
  
  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400"/>
 
-<p align="left"><strong> Web Developer 🖥 | Student  </strong></p> <br>
+<p align="left"><strong> Associate Engineer at Harman Connected Services Private Ltd.  </strong></p> <br>
 <h2 align="left"> ABOUT ME</h2>
 <p align="left"><strong>I am dismissive of the virtuous, unaware of the beautiful and uncomprehending in the face of the Happy .</strong></p> <br>
 	 
