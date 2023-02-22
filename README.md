@@ -6,11 +6,7 @@
 <p align="left"><strong> Software Engineer at Harman Internationals.  </strong></p> <br>
 <h2 align="left"> ABOUT ME</h2>
 <p align="left"><strong>I am dismissive of the virtuous, unaware of the beautiful and uncomprehending in the face of the Happy .</strong></p> <br>
-	 
-<p align="left"> Visitor count
-	<br>
-  <img src="https://profile-counter.glitch.me/PuneethKshetty/count.svg" />
-</p>
+	
 
 <h2 align="center"><strong>Wanna Hire Me!</strong></h2>
 <p align="center">
